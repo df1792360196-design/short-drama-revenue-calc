@@ -4,6 +4,11 @@
 
 面向短视频/短剧分发行业：一批账号同时打多部剧，甲方按剧出表，号商需要把总表里自己那部分摘出来对账分钱。
 
+> 🌐 **在线使用**：https://df1792360196-design.github.io/short-drama-revenue-calc/
+> 📦 **仓库地址**：https://github.com/df1792360196-design/short-drama-revenue-calc
+>
+> 在线版同样是纯前端运行，你的数据不会上传到任何服务器。
+
 ---
 
 ## ✨ 特性
